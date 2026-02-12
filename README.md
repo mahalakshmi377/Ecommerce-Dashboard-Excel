@@ -3,7 +3,8 @@
 
 This project presents an interactive Excel dashboard built to analyze e-commerce sales performance, profit trends, shipping modes, product categories, and regional growth. The dashboard helps stakeholders understand business performance and identify growth opportunities using data-driven insights.
 
-image
+<img width="1727" height="673" alt="image" src="https://github.com/user-attachments/assets/79745594-f306-4f3c-ab44-28576562c597" />
+
 🔹 Key Business Questions Answered
 
 How are sales and profit trending month-wise?
